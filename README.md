@@ -1,3 +1,21 @@
+# Understanding what is going on
+
+I recieved 2 tests. One for php and one for JS. I am applying for the js role so I decided to fuse the tests.
+
+I used react as my framework.
+
+Swiper js for my slider.
+
+Populated the slider by making an api call to Hacker News API
+
+The images are loaded from picsum.
+
+# Things i could of added if I had more time
+
+- Save the api request once to the state
+- then have a timer that checks how old is the data
+- routing for single post view
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
